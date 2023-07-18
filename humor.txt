@@ -1,0 +1,3 @@
+funny 1
+funny 2
+funny 3
